@@ -1,0 +1,6 @@
+prazo do projeto
+definição da equipe
+funcao de cada colaborador
+primeiro prototipo do app
+realizacao de testes
+entrega do app
